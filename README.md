@@ -12,4 +12,5 @@ Architecture of the CNN model:
 
 ## Results
 Accuracy and loss function history of the CNN model fit for the balanced training (green) and validation (red) samples:
+
 ![alt text](https://user-images.githubusercontent.com/57104110/136662077-efe27f8d-2d60-4a87-be2c-5dd52570e62d.png)
